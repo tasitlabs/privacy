@@ -248,16 +248,16 @@ If you wish to raise a complaint on how we have handled your personal data, you 
 
 ##### Right to lodge a complaint with a relevant supervisory authority
 
-If we have not responded to you within a reasonable time or if you feel that your complaint has not been resolved to your satisfaction, you are entitled to make a complaint to the Data Protection Commissioner under the Data Protection Act, which is presently the Gibraltar Regulatory Authority (GRA). You may contact the GRA on the below details:
+If we have not responded to you within a reasonable time or if you feel that your complaint has not been resolved to your satisfaction, you are entitled to make a complaint to the Data Protection Commissioner under the Data Protection Act, which is presently the Gibraltar Regulatory Authority (GRA). You may contact the GRA using the below contact information:
 
-Gibraltar Data Protection Commissioner
-Gibraltar Regulatory Authority
-2nd Floor, Eurotowers 4
-1 Europort Road
-Gibraltar
-Email: info@gra.gi
-Phone: (+350) 200 74636
-Fax: (+350) 200 72166
+    Gibraltar Data Protection Commissioner
+    Gibraltar Regulatory Authority
+    2nd Floor, Eurotowers 4
+    1 Europort Road
+    Gibraltar
+    Email: info@gra.gi
+    Phone: (+350) 200 74636
+    Fax: (+350) 200 72166
 
 You also have the right to lodge a complaint with the supervisory authority in the country of your habitual residence, place of work, or the place where you allege an infringement of one or more of our rights has taken place, if that is based in the EEA.
 
