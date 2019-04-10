@@ -25,7 +25,7 @@ If you are viewing this policy online, you can click on the below links to jump 
 9. [Your Rights as a Data Subject](#9-your-rights-as-a-data-subject)
 10. [Storing Personal Data](#10-storing-personal-data)
 11. [Changes to this Privacy Policy](#11-changes-to-this-privacy-policy)
-12. [Our details](#12-our-details)
+12. [Contact information](#12-contact-information)
 
 ### 2. Your information and the Blockchain
 
@@ -45,14 +45,14 @@ In most cases ultimate decisions to (i) transact on the blockchain using your Et
 
 We may collect and process Personal Data about your use of our website. This data may include:
 
-    The browser types and versions used;
-    The operating system used by the accessing system;
-    The website from which an accessing system reaches our website (so-called referrers);
-    Behaviour: subpage, duration, and revisit;
-    The date and time of access to our website;
-    The Internet protocol address (“IP address”);
-    The Internet service provider of the accessing system; and
-    Any other similar data and information that may be used in the event of attacks on our information technology systems.
+- The browser types and versions used;
+- The operating system used by the accessing system;
+- The website from which an accessing system reaches our website (so-called referrers);
+  Behaviour: subpage, duration, and revisit;
+- The date and time of access to our website;
+- The Internet protocol address (“IP address”);
+- The Internet service provider of the accessing system; and
+- Any other similar data and information that may be used in the event of attacks on our information technology systems.
 
 This data may be processed in order to deliver the content of our website correctly, to optimize the content of our website to ensure the long-term viability of our information technology systems and website technology, and to provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. The legal basis for this processing is our legitimate business interests, namely monitoring and improving our website and the proper protection of our business against risks and your consent when agreeing to accept cookies.
 
@@ -62,11 +62,11 @@ When using any of the Tasit apps we may collect and process personal data with y
 
 a) On the Ethereum blockchain the following data will be stored:
 
-    Your in-app ephemeral account address;
-    Your smart contract address;
-    Addresses of externally owned accounts;
-    Transactions made with the app; and
-    ETH and token balances.
+- Your in-app ephemeral account address;
+- Your smart contract address;
+- Addresses of externally owned accounts;
+- Transactions made with the app; and
+- ETH and token balances.
 
 The data is needed to create the user’s contract account if desired and to enable the user to make use of the app. The Tasit apps support multi-signature functionality in some cases. Thus, the externally owned accounts are needed to confirm a transaction before they are executed.
 
@@ -76,19 +76,19 @@ The data will be stored on the Ethereum Blockchain. Given the technological desi
 
 b) In our servers hosted on the cloud with Amazon Web Services we may opt to store the following data:
 
-    Your in-app ephemeral address if applicable;
-    Your smart contract address if applicable;
-    Addresses of externally-owned accounts; and
-    Transactions made in the app.
+- Your in-app ephemeral address if applicable;
+- Your smart contract address if applicable;
+- Addresses of externally-owned accounts; and
+- Transactions made in the app.
 
 The legal basis for this processing is that it is necessary to fulfill a contract with you.
 
 c) Log Data
 
-    Your in-app ephemeral address if applicable;
-    Your smart contract address if applicable;
-    Transaction id / Hash; and
-    The Internet protocol address (“IP address”) if useful.
+- Your in-app ephemeral address if applicable;
+- Your smart contract address if applicable;
+- Transaction id / Hash; and
+- The Internet protocol address (“IP address”) if useful.
 
 We maybe need this data to be able to debug issues and provide support for our application. The legal basis for this processing is that it is necessary to fulfill a contract with you.
 
@@ -96,10 +96,10 @@ We maybe need this data to be able to debug issues and provide support for our a
 
 When you participate in our user experience research we may collect and process some personal data. This data may include:
 
-    Your name;
-    Your email;
-    Your phone type; and
-    Your occupation
+- Your name;
+- Your email;
+- Your phone type; and
+- Your occupation
 
 In addition, we may take a recording of you while testing the Tasit apps for internal and external use. The basis for this collection and processing is our legitimate business interest in monitoring and improving our services. The legal basis for this processing is your consent as provided before participating in user experience research.
 
@@ -151,8 +151,8 @@ https://sentry.io/terms/
 
 On our website we link to our social media profiles. Those services might also collect Personal Data. Please refer to their privacy policies for more information.
 
-    Twitter: https://twitter.com/de/privacy
-    Medium: https://medium.com/policy/medium-privacy-policy-f03bf92035c9
+- Twitter: https://twitter.com/de/privacy
+- Medium: https://medium.com/policy/medium-privacy-policy-f03bf92035c9
 
 ### 5. Sharing Your Personal Data
 
@@ -184,7 +184,7 @@ You have a right to be informed about the processing of your personal data (and 
 
 ##### Right to rectification
 
-You have the right to have any inaccurate personal information about you rectified and to have any incomplete personal information about you completed. You may also request that we restrict the processing of that information. The accuracy of your information is important to us. If you do not want us to use your Personal Information in the manner set out in this Privacy Policy, or need to advise us of any changes to your personal information, or would like any more information about the way in which we collect and use your Personal Information, please contact us at the above details.
+You have the right to have any inaccurate personal information about you rectified and to have any incomplete personal information about you completed. You may also request that we restrict the processing of that information. The accuracy of your information is important to us. If you do not want us to use your Personal Information in the manner set out in this Privacy Policy, or need to advise us of any changes to your personal information, or would like any more information about the way in which we collect and use your Personal Information, please contact us using the below contact information.
 
 ##### Right to erasure (right to be ‘forgotten’)
 
@@ -200,19 +200,19 @@ You have the general right to request the erasure of your personal information i
 
 We will proceed to comply with an erasure request without delay unless continued retention is necessary for:
 
-    Exercising the right of freedom of expression and information;
-    Complying with a legal obligation under US, EU, or other applicable law;
-    The performance of a task carried out in the public interest;
-    Archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes, under certain circumstances; and/or
-    The establishment, exercise, or defense of legal claims.
+- Exercising the right of freedom of expression and information;
+- Complying with a legal obligation under US, EU, or other applicable law;
+- The performance of a task carried out in the public interest;
+- Archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes, under certain circumstances; and/or
+- The establishment, exercise, or defense of legal claims.
 
 ##### Right to restrict processing and right to object to processing
 
 You have a right to restrict processing of your personal information, such as where:
 
-    You contest the accuracy of the personal information;
-    Where processing is unlawful you may request, instead of requesting erasure, that we restrict the use of the unlawfully processed personal information;
-    We no longer need to process your personal information but need to retain your information for the establishment, exercise, or defense of legal claims.
+- You contest the accuracy of the personal information;
+- Where processing is unlawful you may request, instead of requesting erasure, that we restrict the use of the unlawfully processed personal information;
+- We no longer need to process your personal information but need to retain your information for the establishment, exercise, or defense of legal claims.
 
 You also have the right to object to processing of your personal information under certain circumstances, such as where the processing is based on your consent and you withdraw that consent. This may impact the services we can provide and we will explain this to you if you decide to exercise this right.
 
@@ -232,19 +232,19 @@ You have a choice about whether or not you wish to receive information from us. 
 
 you have a business relationship with us, and we rely on our legitimate interests as the lawful basis for processing (as described above) or you have otherwise given your prior consent (such as when you download one of our guides).
 
-You can change your marketing preferences at any time by contacting us using the above contact information. On each and every marketing communication, we will always provide the option for you to exercise your right to object to the processing of your personal data for marketing purposes (known as ‘opting-out’) by clicking on the ‘unsubscribe’ button on our marketing emails or choosing a similar opt-out option on any forms we use to collect your data. You may also opt-out at any time by contacting us using the above contact information. Please note that any administrative or service-related communications (to offer our services, or notify you of an update to this Privacy Policy or applicable terms of business, etc.) will solely be directed at our clients or business partners, and such communications generally do not offer an option to unsubscribe as they are necessary to provide the services requested. Therefore, please be aware that your ability to opt-out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our website or as part of a contractual relationship we may have with you.
+You can change your marketing preferences at any time by contacting us using the below contact information. On each and every marketing communication, we will always provide the option for you to exercise your right to object to the processing of your personal data for marketing purposes (known as ‘opting-out’) by clicking on the ‘unsubscribe’ button on our marketing emails or choosing a similar opt-out option on any forms we use to collect your data. You may also opt-out at any time by contacting us using the below contact information. Please note that any administrative or service-related communications (to offer our services, or notify you of an update to this Privacy Policy or applicable terms of business, etc.) will solely be directed at our clients or business partners, and such communications generally do not offer an option to unsubscribe as they are necessary to provide the services requested. Therefore, please be aware that your ability to opt-out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our website or as part of a contractual relationship we may have with you.
 
 ##### Right to request access
 
-You also have a right to access information we hold about you. We are happy to provide you with details of your Personal Information that we hold or process. To protect your personal information, we follow set storage and disclosure procedures, which mean that we will require proof of identity from you prior to disclosing such information. You can exercise this right at any time by contacting us using the above contact information.
+You also have a right to access information we hold about you. We are happy to provide you with details of your Personal Information that we hold or process. To protect your personal information, we follow set storage and disclosure procedures, which mean that we will require proof of identity from you prior to disclosing such information. You can exercise this right at any time by contacting us using the below contact information.
 
 ##### Right to withdraw consent
 
-Where the legal basis for processing your personal information is your consent, you have the right to withdraw that consent at any time by contacting us using the above contact information.
+Where the legal basis for processing your personal information is your consent, you have the right to withdraw that consent at any time by contacting us using the below contact information.
 
 ##### Raising a complaint about how we have handled your personal data
 
-If you wish to raise a complaint on how we have handled your personal data, you can contact us as set out above and we will then investigate the matter.
+If you wish to raise a complaint on how we have handled your personal data, you can contact us as set out below and we will then investigate the matter.
 
 ##### Right to lodge a complaint with a relevant supervisory authority
 
@@ -269,7 +269,7 @@ We retain your information only for as long as is necessary for the purposes for
 
 We may make changes to this Policy from time to time. Where we do so, we will notify those who have a business relationship with us or who are subscribed to our emailing lists directly of the changes, and change the ‘Last updated’ date above. We encourage you to review the Policy whenever you access or use our website to stay informed about our information practices and the choices available to you. If you do not agree to the revised Policy, you should discontinue your use of this website and our apps.
 
-### 12. Our details
+### 12. Contact information
 
 This website is owned and operated by Tasit Labs, Inc. We are registered in the state of Delaware in the United States of America.
 
