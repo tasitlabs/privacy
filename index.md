@@ -14,18 +14,18 @@ In this Policy, “processing” means any operation or set of operations which 
 
 If you are viewing this policy online, you can click on the below links to jump to the relevant section:
 
-    1. Navigating this Policy (the current section)
-    [2. Your information and the Blockchain](#2-your-information-and-the-blockchain)
-    [3. How We Use Personal Data](#3-how-we-use-personal-data)
-    [4. Use of Third Party Applications](#4-use-of-third-party-applications)
-    [5. Sharing Your Personal Data](#5-sharing-your-personal-data)
-    [6. Transferring Your data outside of the EU](#6-transferring-your-data-outside-of-the-eu)
-    [7. Existence of Automated Decision-making](#7-existence-of-automated-decision-making)
-    [8. Data Security](#8-data-security)
-    [Your Rights as a Data Subject](#9-your-rights-as-a-data-subject)
-    [10. Storing Personal Data](#10-storing-personal-data)
-    [11. Changes to this Privacy Policy](#11-changes-to-this-privacy-policy)
-    [12. Our details](#12-our-details)
+1. Navigating this Policy (the current section)
+2. [Your information and the Blockchain](#2-your-information-and-the-blockchain)
+3. [How We Use Personal Data](#3-how-we-use-personal-data)
+4. [Use of Third Party Applications](#4-use-of-third-party-applications)
+5. [Sharing Your Personal Data](#5-sharing-your-personal-data)
+6. [Transferring Your data outside of the EU](#6-transferring-your-data-outside-of-the-eu)
+7. [Existence of Automated Decision-making](#7-existence-of-automated-decision-making)
+8. [Data Security](#8-data-security)
+9. [Your Rights as a Data Subject](#9-your-rights-as-a-data-subject)
+10. [Storing Personal Data](#10-storing-personal-data)
+11. [Changes to this Privacy Policy](#11-changes-to-this-privacy-policy)
+12. [Our details](#12-our-details)
 
 ### 2. Your information and the Blockchain
 
