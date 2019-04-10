@@ -121,15 +121,15 @@ When using the Tasit apps your in-app ephemeral account addres, your smart contr
 
 We use Amazon Web Services (AWS) to store log and database data as described in section 3.2 For further information and the applicable data protection provisions of AWS please visit:
 
-https://aws.amazon.com/privacy/.
+[https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/)
 
 ##### 4.3. iOS App Store / Google Play Store
 
 Apple and Google most likely track user behavior when downloading apps from their stores as well as when using apps. We (Tasit Labs, Inc.) only have very limited access to that data. We can view aggregated statistics on installs and uninstalls. Grouping by device type, app version, language, carrier and country is possible.
 
-https://www.apple.com/legal/privacy/en-ww/
+[https://www.apple.com/legal/privacy/en-ww/](https://www.apple.com/legal/privacy/en-ww/)
 
-https://policies.google.com/privacy
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 ##### 4.4. Fingerprint / Touch ID / Face ID
 
@@ -139,20 +139,20 @@ We enable the user to unlock mobile apps via fingerprint / touch ID (Android and
 
 In order to be able to notice, debug and fix bugs/crashes of the Tasit apps which might impair user experience we may opt to use Sentry. Sentry is a crash reporting and aggregation platform that provides you with "real-time insight into production deployments with info to reproduce and fix crashes". For further information and the applicable data protection provisions of Sentry please visit:
 
-https://sentry.io/welcome/
+[https://sentry.io/welcome/](https://sentry.io/welcome/)
 
 In particular we use Sentry to monitor the performance of the app. The Service automatically may collect certain information that does not personally identify users who access or use mobile applications that use Sentry. This information includes, but is not limited to, device state information, unique device identifiers, device hardware and OS information, information relating to how an application functions, and the physical location of a device at the time of a crash. For further information and the applicable data protection provisions of Sentry please visit:
 
-https://sentry.io/privacy/
+[https://sentry.io/privacy/](https://sentry.io/privacy/)
 
-https://sentry.io/terms/
+[https://sentry.io/terms/](https://sentry.io/terms/)
 
 ##### 4.6. Transmitting Social Media Links
 
 On our website we link to our social media profiles. Those services might also collect Personal Data. Please refer to their privacy policies for more information.
 
-- Twitter: https://twitter.com/de/privacy
-- Medium: https://medium.com/policy/medium-privacy-policy-f03bf92035c9
+- Twitter: [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
+- Medium: [https://medium.com/policy/medium-privacy-policy-f03bf92035c9](https://medium.com/policy/medium-privacy-policy-f03bf92035c9)
 
 ### 5. Sharing Your Personal Data
 
